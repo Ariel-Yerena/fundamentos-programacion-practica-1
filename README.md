@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Información del Estudiante
 
-- **Nombre:** [Tu nombre completo]
-- **Matrícula:** [Tu matrícula]
+- **Nombre:** Ariel Yerena
+- **Matrícula:** 12345
 - **Grupo:** [A/B/C]
 - **Cuatrimestre:** Primer Cuatrimestre
 - **Carrera:** TSU en Desarrollo e Innovación de Software
